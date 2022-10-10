@@ -1,2 +1,2 @@
-# personal_site
+# cv
 My Personal Site
